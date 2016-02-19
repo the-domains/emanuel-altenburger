@@ -1,7 +1,7 @@
 name: Emanuel Altenburger
 favicon: null
-layout_spectrum: 0.9413652855437249
-typography_spectrum: 0.6849284307099879
+layout_spectrum: 1
+typography_spectrum: 0.72694
 cta:
   domain: null
   bucket: null
@@ -16,12 +16,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-  brandStrength: 0.8287370996549726
+    - '#0e62a6'
+    - '#000080'
+    - '#000000'
+    - '#0000ff'
+    - '#003399'
+  brandStrength: 0.375
   lightness: 0.6720511480234563
   saturation: 0.4700098189059645
   rhythmicContrast: 0.5196843876037747
